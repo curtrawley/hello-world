@@ -7,3 +7,4 @@ campaign into the 'Got it' column by developing a reasonable understanding
 of what it takes to code a robust visual anyalyics project
 COMMIT MESSAGE: This the first entry to the file - as such the change
 is from an empty file to one with some text in it
+This branch is specically for resources to be used in creating 'A Game'
